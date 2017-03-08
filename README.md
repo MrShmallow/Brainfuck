@@ -60,7 +60,7 @@ Pointer :   ^
 For running a file, enter file name as the first argument.  
 use the "-d" flag to enable debugging. for example:
 ```
-BrainfuckInterpreter test.bf -d
+brainfuck test.bf -d
 ```
 will run the file test.bf in debug mode.
 

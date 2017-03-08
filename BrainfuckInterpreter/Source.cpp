@@ -18,6 +18,9 @@ void interpret()
 	std::string code;
 	Brainfuck bf;
 
+	std::cout << "Brainfuck Interpreter and Debugger" << std::endl;
+	std::cout << "Type 'help' for list of available commands" << std::endl << std::endl;
+
 	do
 	{
 		std::cout << ">> ";
